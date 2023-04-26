@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm SyafiqMazlan</h1>
 <h3 align="center">A semi self taught developer from Malaysia</h3>
 
